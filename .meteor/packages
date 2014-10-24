@@ -4,7 +4,8 @@
 # but you can also edit it by hand.
 
 standard-app-packages
-iron:router
 coffeescript
-nooitaf:semantic-ui-less
+less
+lumatijev:semantic-ui-beta
+iron:router@1.0.0-pre2
 
