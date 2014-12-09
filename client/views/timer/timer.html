@@ -1,6 +1,9 @@
 <template name="Timer">
-  Hej
+  {{> Loading class=loading}}
+  {{>Clock timer}}
+</template>
 
-  {{hello}}
-
+<template name="Clock">
+  {{clock.minutes}}:{{clock.seconds}}
+  {{current}}
 </template>

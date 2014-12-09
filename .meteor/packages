@@ -8,4 +8,5 @@ coffeescript
 less
 lumatijev:semantic-ui-beta
 iron:router@1.0.0-pre2
+mrt:moment
 
